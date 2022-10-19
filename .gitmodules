@@ -1,0 +1,3 @@
+[submodule "Laboratory_ISR"]
+	path = Laboratory_ISR
+	url = https://github.com/DenisEvd/Laboratory_ISR.git
